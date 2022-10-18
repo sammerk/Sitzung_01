@@ -1,0 +1,40 @@
+Question
+========
+Im Folgenden ist ein _"Abstract"_ gegeben. Bitte schätzen Sie Charakteristika des Untersuchungsdesigns der zugrunde liegenden Studie ein, indem Sie  _wahre Aussagen_ ankreuzen.
+
+> Diagnostische Kompetenz ist eine zentrale Voraussetzung für erfolgreiches Unterrichten in heterogenen Lerngruppen und für die individuelle Förderung
+Lernender. Die vorliegende Studie untersucht die Effekte einer kooperativ organisierten Lerngelegenheit (problemorientiertes Lernen mit Textfällen,
+POL-TF) auf die Entwicklung der individuellen diagnostischen Kompetenz von Lehramtsstudierenden. Angenommen wurde, dass POL-TF einen positiven Effekt auf das Diagnosewissen, die Motivation und das Selbstkonzept hat. Zur Überprüfung des angenommenen Interventionseffektes wurden in einem quasi-experimentellen Design zu zwei Messzeitpunkten 57 bzw. 45 Lehramtsstudierende befragt. Die Interventionsgruppe arbeitete in festen POL-Gruppen mit Textfällen und die Kontrollgruppe mit instruierter Gruppen- und Einzelarbeit. Die ANOVAs mit Messwiederholung zeigten einen signifikanten Interventionseffekt auf das pädagogische Diagnosewissen und auf das Selbstkonzept der Lehramtsstudierenden. Die Ergebnisse werden hinsichtlich der Entwicklung diagnostischer Kompetenz im Lehramtsstudium und dem Einsatz von Texten als Fallmedium diskutiert.
+
+
+Diesem Abstract liegt ...
+
+Answerlist
+----------
+* ... eine Primäranalyse zugrunde
+* ... eine explanative Studie zugrunde
+* ... eine methodische Studie zugrunde
+* ... eine randomisierte Zuordnung der Lehramtsstudierenden zur Interventions- bzw. Kontrollgruppe zugrunde 
+
+
+Solution
+========
+
+Answerlist
+----------
+* True.
+* True.
+* False.
+* False.
+
+
+
+
+
+Meta-information
+================
+exname: Abstract II einschätzen
+extype: mchoice
+exsolution: 1100
+exshuffle: TRUE
+

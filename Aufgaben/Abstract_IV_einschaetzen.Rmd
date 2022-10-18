@@ -1,0 +1,27 @@
+Question
+========
+Im Folgenden ist ein _"Abstract"_ gegeben. Bitte schätzen Sie Charakteristika des Untersuchungsdesigns der zugrunde liegenden Studie ein, indem Sie  _wahre Aussagen_ ankreuzen.
+
+> Studien zeigen, dass Selbstwirksamkeitserwartungen speziell für die Umsetzung von Veränderungen und die Bewältigung von Herausforderungen im Unterricht bedeutsam sind (z.B. Klassen und Tze 2014). Hierzu zählt auch der Umgang mit Heterogenität. Bislang fehlen jedoch deutschsprachige Instrumente, die in diesem Kontext nicht vorrangig auf inklusiven Unterricht oder Kinder mit speziellen Förderbedarfen zielen, sondern auf die konkreten unterrichtlichen Anforderungsbereiche der Diagnostik von Lernvoraussetzungen und Differenzierung bzw. Förderung im Sinne des Konzepts der Adaptivität (Parsons et al. 2018). Die vorliegende Studie berichtet Befunde zu einem Instrument, welches Selbstwirksamkeitserwartungen zum adaptiven Unterrichten in heterogenen Lerngruppen erfasst und nach einer Pilotierung im Rahmen zweier Studien mit angehenden Lehrkräften unterschiedlicher Lehramtsstudiengänge (N=977) kreuzvalidiert wurde. Konfirmatorische Faktorenanalysen weisen auf ein reliables und valides Instrument mit drei Faktoren hin. Zudem zeigen sich Unterschiede zwischen Studierenden verschiedener Lehramtsstudiengänge sowie positive Veränderungen im Rahmen spezifischer Lehrveranstaltungen. [...]
+
+Diesem Abstract liegt ...
+
+Answerlist
+----------
+* ... ein messwiederholtes Untersuchungsdesign zugrunde
+* ... eine Metanalyse zugrunde
+* ... eine Methodenstudie zugrunde
+* ... eine explorative Studie zugrunde
+* ... eine Primäranalyse zugrunde
+
+
+
+
+
+
+Meta-information
+================
+exname: Abstract einschätzen IV
+extype: mchoice
+exsolution: 10101
+exshuffle: TRUE

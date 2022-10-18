@@ -1,0 +1,36 @@
+Question
+========
+Eine Forscherin schreibt für ein Manuskript, das bei einer Zeitschrift eingereicht wurde ein Gutachten (Peer-Review-Verfahren). Da sie den verschriftlichten Ergebnissen der statistischen Verfahren innerhalb des Manuskripts nicht folgen kann, bittet sie (über die Schriftleitung der Zeitschrift) die Autorinnen und Autoren um eine anonymisierte Übermittlung des Datensatzes und des Computercodes mithilfe derer die im Manuskript präsentierten Ergebnisse generiert wurden. Daraufhin erhält sie ein unüberblickbares Durcheinander von Teildatensätzen ohne Variablenbeschreibung, unkommentierter Sytnax etc., sodass sie die Analysen immer noch nicht nachvollziehen kann. Daher empfiehlt sie der Schriftleitung das Manuskript nicht zu veröffentlichen aufgrund von mangelnder ...
+
+
+
+Answerlist
+----------
+* ... inhaltlicher Relevanz
+* ... interner Validität
+* ... ethischer Strenge
+* ... methodischer Strenge
+* ... Präsentationsqualität
+
+
+Solution
+========
+
+Answerlist
+----------
+* False.
+* False.
+* False.
+* False.
+* True.
+
+
+
+
+
+Meta-information
+================
+exname: Kriterien wissenschaftlicher Qualität III
+extype: mchoice
+exsolution: 00001
+exshuffle: TRUE

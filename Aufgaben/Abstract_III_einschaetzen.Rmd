@@ -1,0 +1,27 @@
+Question
+========
+Im Folgenden ist ein _"Abstract"_ gegeben. Bitte schätzen Sie Charakteristika des Untersuchungsdesigns der zugrunde liegenden Studie ein, indem Sie  _wahre Aussagen_ ankreuzen.
+
+> Young children learn language at an incredible rate. [...] Children learn from caregivers motivated to communicate with them. How precisely do parents tune their speech to their children’s individual language knowledge? To answer this question, we asked parent–child pairs (N = 41) to play a reference game in which the parents’ goal was to guide their child to select a target animal from a set of three. Parents fine-tuned their referring expressions to their children’s knowledge at the lexical level, producing more informative references for animals they thought their children did not know. Further, parents learned about their children’s knowledge over the course of the game and tuned their referring expressions accordingly. [...]
+
+Diesem Abstract liegt ...
+
+Answerlist
+----------
+* ... ein messwiederholtes Untersuchungsdesign zugrunde
+* ... ein experimentelles Untersuchungsdesign zugrunde
+* ... eine explorative Studie zugrunde
+* ... eine Primäranalyse zugrunde
+* ... eine Metaanalyse zugrunde
+
+
+
+
+
+
+Meta-information
+================
+exname: Abstract einschätzen III
+extype: mchoice
+exsolution: 00010
+exshuffle: TRUE

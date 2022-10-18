@@ -1,0 +1,38 @@
+Question
+========
+Ein methodologisch und statistisch sehr versierter Forscher plant eine experimentelle Feldstudie nach allen Regeln der Kunst und ist begeistert von seinen Hypothesen, die er sehr plausibel aus der Literatur ableiten kann. Allerdings vergisst er die bisher vorhandenen Publikationen zu diesem Thema gründlich zu recherchieren. Daher übersieht er, dass bereits zwei Gruppen von Forscherinnen und Forschern aus den USA und Shanghai einige Experimente zu diesem Thema durchgeführt haben und zu sehr ähnlichen Ergebnissen kommen.
+
+Welches Kriterium wissenschaftlicher Qualität sinkt in Anbetracht der Tatsache, dass die Hypothese schon stark und erfolgreich beforscht wurde?
+
+
+
+Answerlist
+----------
+* Inhaltliche Relevanz
+* Interne Validität
+* Ethische Strenge
+* Methodische Strenge
+* Präsentationsqualität
+
+
+Solution
+========
+
+Answerlist
+----------
+* True
+* False
+* False
+* False
+* False
+
+
+
+
+
+Meta-information
+================
+exname: Kriterien wissenschaftlicher Qualität II
+extype: mchoice
+exsolution: 10000
+exshuffle: TRUE

@@ -1,0 +1,30 @@
+Question
+========
+Eine Forscherin möchte herausfinden, ob die Verwendung realistischer vs. schematischer Anatomischer Abbildungen den Erwerb von konzeptuellem Wissen zum Aufbau des "Knies" fördert.
+Dazu erfasst sie Schülerleistungen anhand eines entsprechenden Tests nach der Durchführung der entsprechenden Unterrichtseinheit bei Lehrerinnen, die entweder mit realistischen oder schematischen Abbildungen arbeiten und über diesen Einsatz auch selbst entscheiden konnten und die Unterrichtseinheit in einem Lehr- Lernlabor durchführten.
+
+> Welche Abwandlungen des Untersuchungsdesigns würde die __interne Validität__ dieser Studie stärken?
+
+Answerlist
+----------
+* Unterrichtseinheit im Feld statt im Labor durchführen.
+* Per Zufall entscheiden, welche Lehrkraft mit realistischen oder schematischen Abbildungen arbeitet (Randomisierung)
+* Ethikvotum einholen
+* Studie Open Access publizieren
+* Zusätzlich eine Kontrollgruppe (die in einem anderen Fach unterrichtet wird) aufnehmen.
+* Prä-Test durchführen
+
+
+
+
+
+
+
+
+Meta-information
+================
+exname: Steigerung interner Validität 4
+extype: mchoice
+exsolution: 010011
+exshuffle: TRUE
+

@@ -1,0 +1,42 @@
+Question
+========
+Ein Forscher möchte herausfinden, ob die Verwendung dynamischer Geometriesoftware (z.B. GeoGebra) den Erwerb von konzeptuellem Wissen zum "Satz vom Umkreis" fördert.
+Dazu erfasst er Schülerleistungen anhand eines entsprechenden Tests nach der Durchführung der entsprechenden Unterrichtseinheit bei Lehrerinnen, die entweder mit oder ohne die dynamische Geometriesoftware arbeiten und über diesen Einsatz auch selbst entscheiden konnten.
+
+> Welche Abwandlungen Untersuchungsdesign würde die __interne Validität__ dieser Studie stärken?
+
+
+
+Answerlist
+----------
+* Kompetenztest und Wissenstest einsetzen
+* Per Zufall entscheiden, welche Lehrkraft mit oder ohne dynamische Geometriesoftware arbeitet (Randomisierung)
+* Experiment bei Schülerinnen und Studierenden durchführen
+* Experiment im Labor durchführen
+* Ethikvotum einholen
+* Studie Open Access publizieren
+
+
+Solution
+========
+
+Answerlist
+----------
+* True.
+* True.
+* True.
+* False.
+* False.
+* False.
+
+
+
+
+
+Meta-information
+================
+exname: Steigerung interner Validität
+extype: mchoice
+exsolution: 111000
+exshuffle: TRUE
+

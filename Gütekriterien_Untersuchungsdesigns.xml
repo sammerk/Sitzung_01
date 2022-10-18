@@ -1,0 +1,739 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+
+
+<question type="category">
+<category>
+<text>$course$/Gütekriterien_Untersuchungsdesigns/Exercise 01</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q01 : Aufgaben_Abstract_I_einschaetzen </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Im Folgenden ist ein <em>“Abstract”</em> gegeben. Bitte schätzen Sie Charakteristika des Untersuchungsdesigns der zugrunde liegenden Studie ein, indem Sie <em>wahre Aussagen</em> ankreuzen.</p>
+<blockquote>
+<p>Teachers vary in their ability to enact effective teaching practices. We randomly assigned 88 early education preservice teachers to standard teacher education or teacher education plus a 9-week mindfulness-based intervention. Using the Classroom Assessment Scoring System (CLASS) as our primary outcome, we assessed effective teaching practices at baseline and at a 6-month follow-up that occurred during full-time student teaching. Mindfulness, negative affect, and well-being were assessed at baseline, post-test, and follow-up. At follow-up, we observed significant GROUP × time interactions on all major CLASS domains: Instructional supports, Emotional supports, and Classroom organization favoring the intervention group (Cohen’s d’s 0.53–0.65). Daily mindfulness practice was significantly associated with intervention group improvements on Instructional supports (r = .39) and Classroom organization (r = .38). No group differences were observed on negative affect or well-being. Implications for teacher education are discussed.</p>
+</blockquote>
+<p>Diesem Abstract liegt …</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> True. </li>
+<li> False. </li>
+<li> False. </li>
+<li> False. </li>
+<li> True. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>10</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="50" format="html">
+<text><![CDATA[<p>
+… ein experimentelles Untersuchungsdesign zugrunde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-33.33333" format="html">
+<text><![CDATA[<p>
+… eine rein deskriptive Studie zugrunde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-33.33333" format="html">
+<text><![CDATA[<p>
+… eine Sekundäranalyse zugrunde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-33.33333" format="html">
+<text><![CDATA[<p>
+… ein nicht-messwiederholtes Untersuchungsdesign zugrunde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="50" format="html">
+<text><![CDATA[<p>
+… eine quantitative Studie zugrunde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="category">
+<category>
+<text>$course$/Gütekriterien_Untersuchungsdesigns/Exercise 02</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q02 : Aufgaben_Abstract_II_einschaetzen </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Im Folgenden ist ein <em>“Abstract”</em> gegeben. Bitte schätzen Sie Charakteristika des Untersuchungsdesigns der zugrunde liegenden Studie ein, indem Sie <em>wahre Aussagen</em> ankreuzen.</p>
+<blockquote>
+<p>Diagnostische Kompetenz ist eine zentrale Voraussetzung für erfolgreiches Unterrichten in heterogenen Lerngruppen und für die individuelle Förderung Lernender. Die vorliegende Studie untersucht die Effekte einer kooperativ organisierten Lerngelegenheit (problemorientiertes Lernen mit Textfällen, POL-TF) auf die Entwicklung der individuellen diagnostischen Kompetenz von Lehramtsstudierenden. Angenommen wurde, dass POL-TF einen positiven Effekt auf das Diagnosewissen, die Motivation und das Selbstkonzept hat. Zur Überprüfung des angenommenen Interventionseffektes wurden in einem quasi-experimentellen Design zu zwei Messzeitpunkten 57 bzw. 45 Lehramtsstudierende befragt. Die Interventionsgruppe arbeitete in festen POL-Gruppen mit Textfällen und die Kontrollgruppe mit instruierter Gruppen- und Einzelarbeit. Die ANOVAs mit Messwiederholung zeigten einen signifikanten Interventionseffekt auf das pädagogische Diagnosewissen und auf das Selbstkonzept der Lehramtsstudierenden. Die Ergebnisse werden hinsichtlich der Entwicklung diagnostischer Kompetenz im Lehramtsstudium und dem Einsatz von Texten als Fallmedium diskutiert.</p>
+</blockquote>
+<p>Diesem Abstract liegt …</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> False. </li>
+<li> True. </li>
+<li> True. </li>
+<li> False. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>10</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="-50" format="html">
+<text><![CDATA[<p>
+… eine randomisierte Zuordnung der Lehramtsstudierenden zur Interventions- bzw. Kontrollgruppe zugrunde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="50" format="html">
+<text><![CDATA[<p>
+… eine Primäranalyse zugrunde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="50" format="html">
+<text><![CDATA[<p>
+… eine explanative Studie zugrunde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-50" format="html">
+<text><![CDATA[<p>
+… eine methodische Studie zugrunde
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="category">
+<category>
+<text>$course$/Gütekriterien_Untersuchungsdesigns/Exercise 03</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q03 : Aufgaben_Abstract_III_einschaetzen </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Im Folgenden ist ein <em>“Abstract”</em> gegeben. Bitte schätzen Sie Charakteristika des Untersuchungsdesigns der zugrunde liegenden Studie ein, indem Sie <em>wahre Aussagen</em> ankreuzen.</p>
+<blockquote>
+<p>Young children learn language at an incredible rate. […] Children learn from caregivers motivated to communicate with them. How precisely do parents tune their speech to their children’s individual language knowledge? To answer this question, we asked parent–child pairs (N = 41) to play a reference game in which the parents’ goal was to guide their child to select a target animal from a set of three. Parents fine-tuned their referring expressions to their children’s knowledge at the lexical level, producing more informative references for animals they thought their children did not know. Further, parents learned about their children’s knowledge over the course of the game and tuned their referring expressions accordingly. […]</p>
+</blockquote>
+<p>Diesem Abstract liegt …</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>10</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+… eine explorative Studie zugrunde
+</p>]]></text>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+… eine Primäranalyse zugrunde
+</p>]]></text>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+… ein messwiederholtes Untersuchungsdesign zugrunde
+</p>]]></text>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+… ein experimentelles Untersuchungsdesign zugrunde
+</p>]]></text>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+… eine Metaanalyse zugrunde
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="category">
+<category>
+<text>$course$/Gütekriterien_Untersuchungsdesigns/Exercise 04</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q04 : Aufgaben_Abstract_IV_einschaetzen </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Im Folgenden ist ein <em>“Abstract”</em> gegeben. Bitte schätzen Sie Charakteristika des Untersuchungsdesigns der zugrunde liegenden Studie ein, indem Sie <em>wahre Aussagen</em> ankreuzen.</p>
+<blockquote>
+<p>Studien zeigen, dass Selbstwirksamkeitserwartungen speziell für die Umsetzung von Veränderungen und die Bewältigung von Herausforderungen im Unterricht bedeutsam sind (z.B. Klassen und Tze 2014). Hierzu zählt auch der Umgang mit Heterogenität. Bislang fehlen jedoch deutschsprachige Instrumente, die in diesem Kontext nicht vorrangig auf inklusiven Unterricht oder Kinder mit speziellen Förderbedarfen zielen, sondern auf die konkreten unterrichtlichen Anforderungsbereiche der Diagnostik von Lernvoraussetzungen und Differenzierung bzw. Förderung im Sinne des Konzepts der Adaptivität (Parsons et al. 2018). Die vorliegende Studie berichtet Befunde zu einem Instrument, welches Selbstwirksamkeitserwartungen zum adaptiven Unterrichten in heterogenen Lerngruppen erfasst und nach einer Pilotierung im Rahmen zweier Studien mit angehenden Lehrkräften unterschiedlicher Lehramtsstudiengänge (N=977) kreuzvalidiert wurde. Konfirmatorische Faktorenanalysen weisen auf ein reliables und valides Instrument mit drei Faktoren hin. Zudem zeigen sich Unterschiede zwischen Studierenden verschiedener Lehramtsstudiengänge sowie positive Veränderungen im Rahmen spezifischer Lehrveranstaltungen. […]</p>
+</blockquote>
+<p>Diesem Abstract liegt …</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>10</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+… eine Methodenstudie zugrunde
+</p>]]></text>
+</answer>
+<answer fraction="-50" format="html">
+<text><![CDATA[<p>
+… eine explorative Studie zugrunde
+</p>]]></text>
+</answer>
+<answer fraction="-50" format="html">
+<text><![CDATA[<p>
+… eine Metanalyse zugrunde
+</p>]]></text>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+… ein messwiederholtes Untersuchungsdesign zugrunde
+</p>]]></text>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+… eine Primäranalyse zugrunde
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="category">
+<category>
+<text>$course$/Gütekriterien_Untersuchungsdesigns/Exercise 05</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q05 : Aufgaben_Abstract_V_einschaetzen </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Im Folgenden sind ein <em>“Abstract”</em> sowie zwei Ausschnitte des Artikels <strong>Online-Klausuren: Wer schummelt und wenn ja, wie viele?</strong> meiner Kolleg*innen Catherine Cleophas, Christoph Hönnige &amp; Frank Meisel geben. Bitte schätzen Sie Charakteristika des Untersuchungsdesigns der zugrunde liegenden Studie ein, indem Sie <em>wahre Aussagen</em> ankreuzen.</p>
+<blockquote>
+<p>Bearbeiten Studierende Klausuren zu Hause auf dem eigenen PC, lässt sich die eigenständige Bearbeitung durch Prüfer und Prüferinnen nur schwer kontrollieren. Wie detektiert man unerlaubte Absprache und unerlaubten Austausch? Ergebnisse einer systematischen Analyse mehrerer Bachelor- und Masterklausuren.</p>
+</blockquote>
+<blockquote>
+<p>Um Ähnlichkeiten im Antwortverhalten von Teilnehmenden zu erkennen, haben wir Skripte in R und Python entwickelt, die einerseits Ähnlichkeiten in Texten und andererseits Muster in Beantwortungszeiten erkennen lassen. Unsere systematische Analyse mehrerer Bachelor- und Masterklausuren ergab entgegen derartigen Meldungen keine Anzeichen dafür, dass die Mehrheit der Studierenden schummelt. […]</p>
+</blockquote>
+<blockquote>
+<p>Systematische Muster traten bei einem vergleichsweise kleinen Anteil von Klausuren auf, dafür dort um so auffälliger, wie nachstehende Ergebnisse zeigen. Daher ist der Einsatz automatisierter Analysen aus unserer Sicht nicht als Generalverdacht gegenüber Studierenden zu verstehen. Vielmehr stellen sie ein weiteres Werkzeug dar, um Prüfende dabei zu unterstützen, gleiche und faire Prüfungsbedingungen für alle Studierenden zu gewährleisten.</p>
+</blockquote>
+<p>Der Studie liegt…</p>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>10</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+… eine Feldstudie zugrunde
+</p>]]></text>
+</answer>
+<answer fraction="-50" format="html">
+<text><![CDATA[<p>
+… ein Experiment zugrunde
+</p>]]></text>
+</answer>
+<answer fraction="-50" format="html">
+<text><![CDATA[<p>
+… ein messwiederholtes Untersuchungsdesign zugrunde
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="category">
+<category>
+<text>$course$/Gütekriterien_Untersuchungsdesigns/Exercise 06</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q06 : Aufgaben_Ethische Strenge </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Zwei Forscherinnen planen eine Studie durchzuführen und die dadurch entstehenden Daten anschließend zu publizieren, um die Allgemeinheit an den Forschungsanstrengungen (und damit auch an Steuergeldern) möglichst umfangreich partizipieren zu lassen. Beide erzielen durch Recodierungen und Ausschluss von Variablen eine vollständige Anonymisierung des Datensatzes. Auf einem Workshop zur Datenpublikation erfahren beide, dass man <strong>datenschutzrechtlich</strong> gesehen die Proband*innen nicht darüber informieren <strong>muss</strong>, dass die anonymisierten Daten publiziert werden, die Wissenschaftsgesellschaften dies aber aus Fairnessgründen empfehlen. Eine Forscherin nimmt daraufhin einen Hinweis (“die Forschungsdaten dieses Projektes werden nach vollständiger Anonymisierung veröffentlicht”) in den Fragebogen auf, die andere nicht. Ansonsten sind ihre Studien und deren Umgang damit identisch.</p>
+<p>Bzgl. welchen Kriteriums wissenschaftlicher Qualität unterscheiden sich die beiden Studien?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> False. </li>
+<li> False. </li>
+<li> True </li>
+<li> False. </li>
+<li> False. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>10</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Inhaltliche Relevanz
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Präsentationsqualität
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Ethische Strenge
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Interne Validität
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Methodische Strenge
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="category">
+<category>
+<text>$course$/Gütekriterien_Untersuchungsdesigns/Exercise 07</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q07 : Aufgaben_Inhaltliche_Relevanz </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Ein methodologisch und statistisch sehr versierter Forscher plant eine experimentelle Feldstudie nach allen Regeln der Kunst und ist begeistert von seinen Hypothesen, die er sehr plausibel aus der Literatur ableiten kann. Allerdings vergisst er die bisher vorhandenen Publikationen zu diesem Thema gründlich zu recherchieren. Daher übersieht er, dass bereits zwei Gruppen von Forscherinnen und Forschern aus den USA und Shanghai einige Experimente zu diesem Thema durchgeführt haben und zu sehr ähnlichen Ergebnissen kommen.</p>
+<p>Welches Kriterium wissenschaftlicher Qualität sinkt in Anbetracht der Tatsache, dass die Hypothese schon stark und erfolgreich beforscht wurde?</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> False </li>
+<li> False </li>
+<li> True </li>
+<li> False </li>
+<li> False </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>10</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Interne Validität
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Methodische Strenge
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+Inhaltliche Relevanz
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Ethische Strenge
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+Präsentationsqualität
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="category">
+<category>
+<text>$course$/Gütekriterien_Untersuchungsdesigns/Exercise 08</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q08 : Aufgaben_Interne_Validitaet_3 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Ein Forscher möchte herausfinden, ob die Verwendung dynamischer Geometriesoftware (z.B. GeoGebra) den Erwerb von konzeptuellem Wissen zum “Satz vom Umkreis” fördert. Dazu erfasst er Schülerleistungen anhand eines entsprechenden Tests nach der Durchführung der entsprechenden Unterrichtseinheit bei Lehrerinnen, die entweder mit oder ohne die dynamische Geometriesoftware arbeiten und über diesen Einsatz auch selbst entscheiden konnten.</p>
+<blockquote>
+<p>Welche Abwandlungen Untersuchungsdesign würde die <strong>interne Validität</strong> dieser Studie stärken?</p>
+</blockquote>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> True. </li>
+<li> False. </li>
+<li> True. </li>
+<li> False. </li>
+<li> True. </li>
+<li> False. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>10</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+Per Zufall entscheiden, welche Lehrkraft mit oder ohne dynamische Geometriesoftware arbeitet (Randomisierung)
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-33.33333" format="html">
+<text><![CDATA[<p>
+Experiment im Labor durchführen
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+Kompetenztest und Wissenstest einsetzen
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-33.33333" format="html">
+<text><![CDATA[<p>
+Studie Open Access publizieren
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+Experiment bei Schülerinnen und Studierenden durchführen
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-33.33333" format="html">
+<text><![CDATA[<p>
+Ethikvotum einholen
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+
+<question type="category">
+<category>
+<text>$course$/Gütekriterien_Untersuchungsdesigns/Exercise 09</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q09 : Aufgaben_Interne_Validitaet_4 </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Eine Forscherin möchte herausfinden, ob die Verwendung realistischer vs. schematischer Anatomischer Abbildungen den Erwerb von konzeptuellem Wissen zum Aufbau des “Knies” fördert. Dazu erfasst sie Schülerleistungen anhand eines entsprechenden Tests nach der Durchführung der entsprechenden Unterrichtseinheit bei Lehrerinnen, die entweder mit realistischen oder schematischen Abbildungen arbeiten und über diesen Einsatz auch selbst entscheiden konnten und die Unterrichtseinheit in einem Lehr- Lernlabor durchführten.</p>
+<blockquote>
+<p>Welche Abwandlungen des Untersuchungsdesigns würde die <strong>interne Validität</strong> dieser Studie stärken?</p>
+</blockquote>
+</p>]]></text>
+</questiontext>
+<penalty>0</penalty>
+<defaultgrade>10</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="-33.33333" format="html">
+<text><![CDATA[<p>
+Unterrichtseinheit im Feld statt im Labor durchführen.
+</p>]]></text>
+</answer>
+<answer fraction="-33.33333" format="html">
+<text><![CDATA[<p>
+Studie Open Access publizieren
+</p>]]></text>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+Prä-Test durchführen
+</p>]]></text>
+</answer>
+<answer fraction="-33.33333" format="html">
+<text><![CDATA[<p>
+Ethikvotum einholen
+</p>]]></text>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+Per Zufall entscheiden, welche Lehrkraft mit realistischen oder schematischen Abbildungen arbeitet (Randomisierung)
+</p>]]></text>
+</answer>
+<answer fraction="33.33333" format="html">
+<text><![CDATA[<p>
+Zusätzlich eine Kontrollgruppe (die in einem anderen Fach unterrichtet wird) aufnehmen.
+</p>]]></text>
+</answer>
+</question>
+
+
+<question type="category">
+<category>
+<text>$course$/Gütekriterien_Untersuchungsdesigns/Exercise 10</text>
+</category>
+</question>
+
+
+<question type="multichoice">
+<name>
+<text> Q10 : Aufgaben_Praesentationsqualitaet </text>
+</name>
+<questiontext format="html">
+<text><![CDATA[<p>
+<p>Eine Forscherin schreibt für ein Manuskript, das bei einer Zeitschrift eingereicht wurde ein Gutachten (Peer-Review-Verfahren). Da sie den verschriftlichten Ergebnissen der statistischen Verfahren innerhalb des Manuskripts nicht folgen kann, bittet sie (über die Schriftleitung der Zeitschrift) die Autorinnen und Autoren um eine anonymisierte Übermittlung des Datensatzes und des Computercodes mithilfe derer die im Manuskript präsentierten Ergebnisse generiert wurden. Daraufhin erhält sie ein unüberblickbares Durcheinander von Teildatensätzen ohne Variablenbeschreibung, unkommentierter Sytnax etc., sodass sie die Analysen immer noch nicht nachvollziehen kann. Daher empfiehlt sie der Schriftleitung das Manuskript nicht zu veröffentlichen aufgrund von mangelnder …</p>
+</p>]]></text>
+</questiontext>
+<generalfeedback format="html">
+<text><![CDATA[<p>
+<ol type = "a">
+<li> False. </li>
+<li> True. </li>
+<li> False. </li>
+<li> False. </li>
+<li> False. </li>
+</ol>
+</p>]]></text>
+</generalfeedback>
+<penalty>0</penalty>
+<defaultgrade>10</defaultgrade>
+<shuffleanswers>false</shuffleanswers>
+<single>false</single>
+<answernumbering>abc</answernumbering>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+… methodischer Strenge
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="100" format="html">
+<text><![CDATA[<p>
+… Präsentationsqualität
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+True.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+… ethischer Strenge
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+… inhaltlicher Relevanz
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+<answer fraction="-25" format="html">
+<text><![CDATA[<p>
+… interner Validität
+</p>]]></text>
+<feedback format="html">
+<text><![CDATA[<p>
+False.
+</p>]]></text>
+</feedback>
+</answer>
+</question>
+
+</quiz>

@@ -1,0 +1,39 @@
+Question
+========
+Im Folgenden ist ein _"Abstract"_ gegeben. Bitte schätzen Sie Charakteristika des Untersuchungsdesigns der zugrunde liegenden Studie ein, indem Sie  _wahre Aussagen_ ankreuzen.
+
+> Teachers vary in their ability to enact effective teaching practices. We randomly assigned 88 early education preservice teachers to standard teacher education or teacher education plus a 9-week mindfulness-based intervention. Using the Classroom Assessment Scoring System (CLASS) as our primary outcome, we assessed effective teaching practices at baseline and at a 6-month follow-up that occurred during full-time student teaching. Mindfulness, negative affect, and well-being were assessed at baseline, post-test, and follow-up. At follow-up, we observed significant GROUP × time interactions on all major CLASS domains: Instructional supports, Emotional supports, and Classroom organization favoring the intervention group (Cohen's d's 0.53–0.65). Daily mindfulness practice was significantly associated with intervention group improvements on Instructional supports (r = .39) and Classroom organization (r = .38). No group differences were observed on negative affect or well-being. Implications for teacher education are discussed.
+
+Diesem Abstract liegt ...
+
+Answerlist
+----------
+* ... ein nicht-messwiederholtes Untersuchungsdesign zugrunde
+* ... ein experimentelles Untersuchungsdesign zugrunde
+* ... eine rein deskriptive Studie zugrunde
+* ... eine quantitative Studie zugrunde
+* ... eine Sekundäranalyse zugrunde
+
+
+
+Solution
+========
+
+Answerlist
+----------
+* False.
+* True.
+* False.
+* True.
+* False.
+
+
+
+
+
+Meta-information
+================
+exname: Abstract einschätzen
+extype: mchoice
+exsolution: 01010
+exshuffle: TRUE

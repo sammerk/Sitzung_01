@@ -1,0 +1,40 @@
+Question
+========
+Zwei Forscherinnen planen eine Studie durchzuführen und die dadurch entstehenden Daten anschließend zu publizieren, um die Allgemeinheit an den Forschungsanstrengungen (und damit auch an Steuergeldern) möglichst umfangreich partizipieren zu lassen. Beide erzielen durch Recodierungen und Ausschluss von Variablen eine vollständige Anonymisierung des Datensatzes.
+Auf einem Workshop zur Datenpublikation erfahren beide, dass man __datenschutzrechtlich__ gesehen die Proband\*innen nicht darüber informieren __muss__, dass die anonymisierten Daten publiziert werden, die Wissenschaftsgesellschaften dies aber aus Fairnessgründen empfehlen.
+Eine Forscherin nimmt daraufhin einen Hinweis ("die Forschungsdaten dieses Projektes werden nach vollständiger Anonymisierung veröffentlicht") in den Fragebogen auf, die andere nicht. Ansonsten sind ihre Studien und deren Umgang damit identisch.
+
+Bzgl. welchen Kriteriums wissenschaftlicher Qualität unterscheiden sich die beiden Studien?
+
+
+
+Answerlist
+----------
+* Inhaltliche Relevanz
+* Interne Validität
+* Ethische Strenge
+* Methodische Strenge
+* Präsentationsqualität
+
+
+Solution
+========
+
+Answerlist
+----------
+* False.
+* False.
+* True
+* False.
+* False.
+
+
+
+
+
+Meta-information
+================
+exname: Kriterien wissenschaftlicher Qualität I
+extype: mchoice
+exsolution: 00100
+exshuffle: TRUE

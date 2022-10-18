@@ -1,0 +1,31 @@
+Question
+========
+Im Folgenden sind ein _"Abstract"_ sowie zwei Ausschnitte des Artikels __Online-Klausuren: Wer schummelt und wenn ja, wie viele?__ von Catherine Cleophas, Christoph Hönnige & Frank Meisel geben. Bitte schätzen Sie Charakteristika des Untersuchungsdesigns der zugrunde liegenden Studie ein, indem Sie  _wahre Aussagen_ ankreuzen.
+
+> Bearbeiten Studierende Klausuren zu Hause auf dem eigenen PC, lässt sich die eigenständige Bearbeitung durch Prüfer und Prüferinnen nur schwer kontrollieren. Wie detektiert man unerlaubte Absprache und unerlaubten Austausch? Ergebnisse einer systematischen Analyse mehrerer Bachelor- und Masterklausuren.
+
+> Um Ähnlichkeiten im Antwortverhalten von Teilnehmenden zu erkennen, haben wir Skripte in R und Python entwickelt, die einerseits Ähnlichkeiten in Texten und andererseits Muster in Beantwortungszeiten erkennen lassen. Unsere systematische Analyse mehrerer Bachelor- und Masterklausuren ergab entgegen derartigen Meldungen keine Anzeichen dafür, dass die Mehrheit der Studierenden schummelt. [...]
+
+> Systematische Muster traten bei einem vergleichsweise kleinen Anteil von Klausuren auf, dafür dort um so auffälliger, wie nachstehende Ergebnisse zeigen. Daher ist der Einsatz automatisierter Analysen aus unserer Sicht nicht als Generalverdacht gegenüber Studierenden zu verstehen. Vielmehr stellen sie ein weiteres Werkzeug dar, um Prüfende dabei zu unterstützen, gleiche und faire Prüfungsbedingungen für alle Studierenden zu gewährleisten.
+
+
+Der Studie liegt...
+
+Answerlist
+----------
+* ... ein messwiederholtes Untersuchungsdesign zugrunde
+* ... eine Feldstudie zugrunde
+* ... ein Experiment zugrunde
+
+
+
+
+
+
+
+Meta-information
+================
+exname: Abstract einschätzen IV
+extype: mchoice
+exsolution: 010
+exshuffle: TRUE

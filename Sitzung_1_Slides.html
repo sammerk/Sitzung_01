@@ -1,0 +1,759 @@
+<!DOCTYPE html>
+<html lang="" xml:lang="">
+  <head>
+    <title>Vorlesung</title>
+    <meta charset="utf-8" />
+    <meta name="author" content="Samuel Merk" />
+    <meta name="date" content="2021-11-01" />
+    <script src="libs/header-attrs-2.11/header-attrs.js"></script>
+    <link href="libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
+    <link href="libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+    <script type="application/json" id="xaringanExtra-editable-docid">{"id":"e1a25ba1452e47ad89ea10b0523280c5","expires":1}</script>
+    <script src="libs/himalaya-1.1.0/himalaya.js"></script>
+    <script src="libs/js-cookie-3.0.0/js.cookie.js"></script>
+    <link href="libs/editable-0.2.6/editable.css" rel="stylesheet" />
+    <script src="libs/editable-0.2.6/editable.js"></script>
+    <link href="libs/tabwid-1.0.0/tabwid.css" rel="stylesheet" />
+    <link rel="stylesheet" href="xaringan-themer.css" type="text/css" />
+  </head>
+  <body>
+    <textarea id="source">
+
+layout: true
+background-image: url(https://live.staticflickr.com/65535/50973602108_8fce3f8f28_k.jpg)
+background-size: cover
+
+&lt;head&gt;
+&lt;script src="https://kit.fontawesome.com/994a28441d.js" crossorigin="anonymous"&gt;&lt;/script&gt;
+&lt;/head&gt;
+
+&lt;!--&lt;div class="my-footer"&gt;&lt;span&gt;Folien CC-BY verfügbar unter https://atelier-phka-merk-2020.netlify.app&lt;/span&gt;&lt;/div&gt; --&gt; 
+
+---
+
+name: title
+class: center, middle, hide_logo
+
+&lt;style&gt;
+.remark-slide-number {
+  font-size: 10pt;
+  margin-bottom: -11.6px;
+  margin-right: 10px;
+  color: red; /* white */
+  opacity: 0; /* default: 0.5 */
+}
+&lt;/style&gt;
+
+<div>
+<style type="text/css">.xaringan-extra-logo {
+width: 180px;
+height: 128px;
+z-index: 0;
+background-image: url(https://live.staticflickr.com/65535/50974533397_9ac99f9a48_o.png);
+background-size: contain;
+background-repeat: no-repeat;
+position: absolute;
+top:1.5em;right:1.5em;
+}
+</style>
+<script>(function () {
+  let tries = 0
+  function addLogo () {
+    if (typeof slideshow === 'undefined') {
+      tries += 1
+      if (tries < 10) {
+        setTimeout(addLogo, 100)
+      }
+    } else {
+      document.querySelectorAll('.remark-slide-content:not(.title-slide):not(.inverse):not(.hide_logo)')
+        .forEach(function (slide) {
+          const logo = document.createElement('div')
+          logo.classList = 'xaringan-extra-logo'
+          logo.href = null
+          slide.appendChild(logo)
+        })
+    }
+  }
+  document.addEventListener('DOMContentLoaded', addLogo)
+})()</script>
+</div>
+
+
+# .white[Vorlesung]
+
+.em14[&lt;i class="fas fa-microscope fa-5x"&gt;&lt;/i&gt;]
+
+### .white[Einführung in qualitative und quantitative Forschungsmethoden]
+
+&lt;img style="vertical-align:middle" src="https://imagizer.imageshack.com/img922/8876/bipedm.png", width="70px"&gt;
+
+.em14[.white[Samuel Merk]]  
+
+
+
+---
+class: middle, center
+# Heutige Vorlesung
+
+.large[&lt;i class="fas fa-sitemap"&gt;&lt;/i&gt; Organisatorische Einführung]  
+
+
+--
+.large[&lt;i class="fas fa-battery-three-quarters"&gt;&lt;/i&gt; Motivation: Warum *Bildungs-*Wissenschaft ]
+
+
+--
+.large[&lt;i class="fas fa-microscope"&gt;&lt;/i&gt; Wissenschaft; Studienarten &amp; Studiendesigns; &lt;br&gt;Gütekriterien wiss. Inferenz]
+
+
+--
+.large[&lt;i class="far fa-question-circle"&gt;&lt;/i&gt; Ihre Fragen]
+
+
+---
+# &lt;i class="fas fa-sitemap"&gt;&lt;/i&gt; Organisatorische Einführung
+&amp;nbsp;
+.large[
+&gt; Die Vorlesung wird als Partially Flipped Lesson ausgebracht.]
+
+--
+.large[
+* Teilweise .phgreenlight[Erklärvideos] und .phgreenlight[Aufgaben] vorab. Diese können zu einem beliebigen Zeitpunkt rezipiert/bearbeitet werden.
+* Dienstags 9:00 - 12:30 .phgreenlight[synchrone Sitzung] mit Elaboration (vertiefende Aufgaben), FAQ (offene Fragen), neuen Inhalten.
+]
+
+---
+# &lt;i class="fas fa-sitemap"&gt;&lt;/i&gt; Organisatorische Einführung
+## Studienleistung
+&gt; 4CP `\(\Rightarrow\)` 8h wöchentlich  
+&gt; Videos durcharbeiten, ergänzend lesen, Aufgaben bearbeiten (Cut-Off: 50% der Punkte) 
+
+
+---
+# &lt;i class="fas fa-sitemap"&gt;&lt;/i&gt; Organisation via moodle
+&amp;nbsp;  
+&amp;nbsp;  
+&lt;img src="img/screenshot_moodle2.png" width="75%" style="display: block; margin: auto;" /&gt;
+
+
+---
+class: center, middle
+#&lt;i class="fas fa-battery-three-quarters"&gt;&lt;/i&gt; Motivation: Warum *Bildungs-*Wissenschaft  
+
+---
+class: hide_logo
+## &lt;i class="fas fa-microscope"&gt;&lt;/i&gt; Wiss. vs. nicht-wiss. generiertes Wissen
+&gt; Wissen kann von Autoritäten generiert werden, durch Intuition, spontane Beobachtung etc.. Wissenschaftlich generiertes Wissen hat nichtwissenchaftlichen Quellen gegenüber Vor- aber auch Nachteile. Bitte geben Sie unter https://bit.ly/merk012 an, welche Vor- und Nachteile Sie in wiss. produziertem Wissen sehen und "voten" Sie die Antworten Ihrer Kommiliton*innen. Schreiben Sie dazu _Vorteil: ...._ oder _Nachteil: ... _
+
+&amp;nbsp;
+
+&lt;img src="Sitzung_1_Slides_files/figure-html/unnamed-chunk-2-1.png" width="30%" style="display: block; margin: auto;" /&gt;
+
+
+---
+class: hide_logo
+## &lt;i class="fas fa-microscope"&gt;&lt;/i&gt; Wiss. vs. nicht-wiss. generiertes Wissen
+&lt;center&gt;
+&lt;iframe id="triciderframe01" src='http://www.tricider.com/embed/?show=2tVkoLZlIQl' frameborder='0' scrolling='no' marginheight='0' marginwidth='0'&gt;&lt;/iframe&gt;
+&lt;/center&gt;
+&lt;style&gt;
+#triciderframe01 { height: 480px; width: 792.9px; align: center;}
+#triciderframe01 { zoom: 1; -moz-transform: scale(1); -moz-transform-origin: 0 0; }
+&lt;/style&gt;
+
+---
+class: hide_logo
+## &lt;i class="fas fa-microscope"&gt;&lt;/i&gt; Wissenschaftstheorie - Methodologie - Methoden
+
+&lt;center&gt;
+&lt;iframe id="preziframe_2" src="https://prezi.com/embed/_unh3b5cqd5k/?bgcolor=ffffff&amp;amp;lock_to_path=0&amp;amp;autoplay=0&amp;amp;autohide_ctrls=0&amp;amp;landing_data=bHVZZmNaNDBIWnNjdEVENDRhZDFNZGNIUE43MHdLNWpsdFJLb2ZHanI5eis4VkNXU3pCcmJZYUh6WEtONUNsbytRPT0&amp;amp;landing_sign=yCBhXwuYM7QE35n3SExxBVV15Dh8WfzSocNUDuZ9d5o" allowfullscreen="" mozallowfullscreen="" webkitallowfullscreen="" id="iframe_container" frameborder="0" align="center"&gt;&lt;/iframe&gt;
+&lt;/center&gt;
+&lt;style&gt;
+#preziframe_2 { height: 480px; width: 792.9px; align: center;}
+#preziframe_2 { zoom: 1; -moz-transform: scale(1); -moz-transform-origin: 0 0; }
+&lt;/style&gt;
+
+
+---
+# Was ist Wissenschaft?
+&gt; Wer wissenschaftliche Forschung („scientific research“) betreibt, sucht mithilfe .phgreenlight[anerkannter wissenschaftlicher Methoden und Methodologien] auf der Basis des bisherigen .phgreenlight[Forschungsstandes] (d. h. vorliegender Theorien und empirischer Befunde) .phgreenlight[zielgerichtet] nach .phgreenlight[gesicherten] neuen Erkenntnissen, .phgreenlight[dokumentiert] den Forschungsprozess sowie dessen Ergebnisse in nachvollziehbarer Weise und stellt die Studie in .phgreenlight[Vorträgen und Publikationen] der Fachöffentlichkeit vor. .cit[(Döring &amp; Bortz, 2019)]
+
+--
+### Differenz zu Wissensgenese durch
+* Autoritätspersonen `\(\Rightarrow\)` geringeres Eigeninteresse ...
+* gesunder Menschenverstand `\(\Rightarrow\)` variiert sehr stark zwischen sozialen Gruppen ...
+* Intuition `\(\Rightarrow\)` geringere Vorurteile, geringeres Wunschdenken ...
+* Anektotische Evidenz `\(\Rightarrow\)` objektivere &amp; vollständigere Beobachtung ...
+* ...
+
+
+---
+class: center, middle
+# &lt;i class="fas fa-route"&gt;&lt;/i&gt; Inhalte der Vorlesung - 
+# und deren Motivation &lt;i class="fas fa-battery-three-quarters"&gt;&lt;/i&gt; 
+
+---
+class: middle, center, hide_logo
+
+### Eine kompetenztheoretische Begründung:
+
+--
+.large["_Kompetenzen sind latente, domänenspezifische Dispositionen, die die erfolgreiche Problemlösung wahrscheinlicher machen_"]
+
+--
+.pull-left[
+#### Bsp. Mathematik
+"_Hr. Müller fährt auf der Autobahn, sieht auf einer App, dass die nächsten Tankstellen in 3km, 65km und 120km kommen mit den Preisen 1,49€, 1,45€ und 1,38€. Ein Blick auf das Amaturenbrett verrät ihm, dass sein Tank noch zu einem Achtel gefüllt ist, weshalb er sich fragt, bis zu welcher Tankstelle er fahren sollte._"]
+
+
+--
+.pull-right[
+#### Bsp. GPK 
+"_Hr. Müller möchte seine 8. Klasse anhand eines Arbeitsblattes in das stöchiometrische Rechnen (Chemie) einführen. Er fragt sich ob er mit einem Beispiel anfangen soll oder mit einem Problem; ob er Farbe verwenden soll und wenn ja welche; ob er Formelschreibweise oder Teilchenmodelle verwenden soll; die Legende am Rand oder ins Bild integriert sein soll, etc. _"]
+
+--
+&lt;div class="figure" style="text-align: center"&gt;
+&lt;img src="img/TradeOff.png" alt="Trade Off von Anwendungsspektrum und Passung" width="70%" /&gt;
+&lt;p class="caption"&gt;Trade Off von Anwendungsspektrum und Passung&lt;/p&gt;
+&lt;/div&gt;
+
+???
+Trick: Primarstufen-Klasse ist etwas konfus --&gt; Alle aufstehen, Bewegungsspiel
+Kompetenz-Gruppenmobilisierung: --&gt; 
+
+---
+class: middle, center, hide_logo
+
+# Eine bildungstheoretische Begründung:
+
+---
+class: hide_logo
+background-image: url("img/gender_disparities_PISA_SCSH.png")
+
+???
+Wissenschaftsgläubigkeit &lt;--&gt; Wissenschaftskeptizismus
+
+---
+class: middle, center, hide_logo
+
+## Bildungsziel: &lt;br&gt;Studien _verstehen, interpretieren, bewerten_ &amp; ggfs. zum Kompetenzaufbau nutzen
+
+--
+### Exemplarisches ausprobieren:
+
+--
+#### Dauer 10 min
+
+--
+#### GDPR-konforme Plattform
+
+--
+#### Nutzung der Ergebnisse auch für Qualifikationsarbeiten
+
+--
+### https://forschungsergebnisse-beurteilen.formr.org
+
+???
+Weil das für mich die wichtigste Begründung ist, dachte ich mir, wir probieren das auch mal exemplarisch aus - indem ich Ihnen gleich kurz zusammengesfasste Studien zeige und Sie um Ihre Meinung bitte, inwiefern SIe das Vorgehen bei Studie für überzeugend halten etc...
+
+---
+class: hide_logo
+
+## Eine kognitionspsychologische Begründung
+
+--
+.center[.em15[Menschliche Wahrnehmung ist verzerrt]]
+
+--
+.center[
+.pull-left[
+&lt;div class="figure"&gt;
+&lt;img src="img/Ebbinghaus.png" alt="Ebbinghaustäuschung (Massaro &amp;amp; Anderson, 1971)" width="60%" /&gt;
+&lt;p class="caption"&gt;Ebbinghaustäuschung (Massaro &amp; Anderson, 1971)&lt;/p&gt;
+&lt;/div&gt;
+]]
+
+--
+.pull-right[
+&lt;center&gt;
+&lt;video controls="controls" width="350" height="200" name="Video Name"&gt;
+  &lt;source src="https://apps.samuel-merk.de/data/MBI.mov"&gt;
+&lt;/video&gt;&lt;br&gt;
+(Kleinman &amp; Anandarajan, 2011)
+&lt;/center&gt;
+
+.center[Monkeybusinessillusion (Kleinman &amp; Anandarajan, 2011)]]
+
+---
+## Eine kognitionspsychologische Begründung
+### Menschliche Wahrnehmung ist verzerrt
+* Confirmation Bias .cit[(Nickerson, 1998)]
+* Anchor Bias .cit[(Tversky &amp; Kahneman, 1974)]
+* Hindsight Bias .cit[(Langfeldt, 1989)]
+* Positive Testing .cit[(Snyder &amp; Swann, 1978)]
+
+### Verzerrung relevant sowohl
+* in der Alltagswarnehmung
+* als auch der Wahrnung wissenschaftlicher Ergebnisse/Evidenz `\(\rightarrow\)` siehe soeben durchgeführtes Experiment
+
+
+---
+class: middle center hide_logo
+## &lt;i class="far fa-smile-wink"&gt;&lt;/i&gt; Hedonistische Begründung 
+
+
+### It's fun:
+.large[
+.pull-left[
+
+&lt;template id="1a07249f-cf2f-4b6e-89e7-030469186eaa"&gt;&lt;style&gt;
+.tabwid table{
+  border-spacing:0px !important;
+  border-collapse:collapse;
+  line-height:1;
+  margin-left:auto;
+  margin-right:auto;
+  border-width: 0;
+  display: table;
+  margin-top: 1.275em;
+  margin-bottom: 1.275em;
+  border-color: transparent;
+}
+.tabwid_left table{
+  margin-left:0;
+}
+.tabwid_right table{
+  margin-right:0;
+}
+.tabwid td {
+    padding: 0;
+}
+.tabwid a {
+  text-decoration: none;
+}
+.tabwid thead {
+    background-color: transparent;
+}
+.tabwid tfoot {
+    background-color: transparent;
+}
+.tabwid table tr {
+background-color: transparent;
+}
+&lt;/style&gt;&lt;div class="tabwid"&gt;&lt;style&gt;.cl-0b3fc558{}.cl-0b38e65c{font-family:'Helvetica';font-size:11pt;font-weight:normal;font-style:normal;text-decoration:none;color:rgba(255, 255, 255, 1.00);background-color:transparent;}.cl-0b38fa3e{margin:0;text-align:left;border-bottom: 0 solid rgba(0, 0, 0, 1.00);border-top: 0 solid rgba(0, 0, 0, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);padding-bottom:5pt;padding-top:5pt;padding-left:5pt;padding-right:5pt;line-height: 1;background-color:transparent;}.cl-0b392a5e{width:68.4pt;background-color:transparent;vertical-align: middle;border-bottom: 0 solid rgba(0, 0, 0, 1.00);border-top: 0 solid rgba(0, 0, 0, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}.cl-0b392a7c{width:68.4pt;background-color:transparent;vertical-align: middle;border-bottom: 2pt solid rgba(102, 102, 102, 1.00);border-top: 0 solid rgba(0, 0, 0, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}.cl-0b392ae0{width:68.4pt;background-color:transparent;vertical-align: middle;border-bottom: 2pt solid rgba(102, 102, 102, 1.00);border-top: 2pt solid rgba(102, 102, 102, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}&lt;/style&gt;&lt;table class='cl-0b3fc558'&gt;&lt;thead&gt;&lt;tr style="overflow-wrap:break-word;"&gt;&lt;td class="cl-0b392ae0"&gt;&lt;p class="cl-0b38fa3e"&gt;&lt;span class="cl-0b38e65c"&gt;Fakultät&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td class="cl-0b392ae0"&gt;&lt;p class="cl-0b38fa3e"&gt;&lt;span class="cl-0b38e65c"&gt;Fakultät A&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td class="cl-0b392ae0"&gt;&lt;p class="cl-0b38fa3e"&gt;&lt;span class="cl-0b38e65c"&gt;Fakultät B&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr style="overflow-wrap:break-word;"&gt;&lt;td class="cl-0b392a5e"&gt;&lt;p class="cl-0b38fa3e"&gt;&lt;span class="cl-0b38e65c"&gt;Studenten&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td class="cl-0b392a5e"&gt;&lt;p class="cl-0b38fa3e"&gt;&lt;span class="cl-0b38e65c"&gt;100%&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td class="cl-0b392a5e"&gt;&lt;p class="cl-0b38fa3e"&gt;&lt;span class="cl-0b38e65c"&gt;60%&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style="overflow-wrap:break-word;"&gt;&lt;td class="cl-0b392a7c"&gt;&lt;p class="cl-0b38fa3e"&gt;&lt;span class="cl-0b38e65c"&gt;Studentinnen&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td class="cl-0b392a7c"&gt;&lt;p class="cl-0b38fa3e"&gt;&lt;span class="cl-0b38e65c"&gt;90%&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td class="cl-0b392a7c"&gt;&lt;p class="cl-0b38fa3e"&gt;&lt;span class="cl-0b38e65c"&gt;50%&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;&lt;/template&gt;
+&lt;div class="flextable-shadow-host" id="004a0dc2-f9e2-48a9-bcc5-690c4b9b9fc3"&gt;&lt;/div&gt;
+&lt;script&gt;
+var dest = document.getElementById("004a0dc2-f9e2-48a9-bcc5-690c4b9b9fc3");
+var template = document.getElementById("1a07249f-cf2f-4b6e-89e7-030469186eaa");
+var caption = template.content.querySelector("caption");
+if(caption) {
+  caption.style.cssText = "display:block;text-align:center;";
+  var newcapt = document.createElement("p");
+  newcapt.appendChild(caption)
+  dest.parentNode.insertBefore(newcapt, dest.previousSibling);
+}
+var fantome = dest.attachShadow({mode: 'open'});
+var templateContent = template.content;
+fantome.appendChild(templateContent);
+&lt;/script&gt;
+]]
+
+
+.large[
+.pull-right[
+
+&lt;template id="7e6c4550-e806-4ad8-abcb-95da6128016f"&gt;&lt;style&gt;
+.tabwid table{
+  border-spacing:0px !important;
+  border-collapse:collapse;
+  line-height:1;
+  margin-left:auto;
+  margin-right:auto;
+  border-width: 0;
+  display: table;
+  margin-top: 1.275em;
+  margin-bottom: 1.275em;
+  border-color: transparent;
+}
+.tabwid_left table{
+  margin-left:0;
+}
+.tabwid_right table{
+  margin-right:0;
+}
+.tabwid td {
+    padding: 0;
+}
+.tabwid a {
+  text-decoration: none;
+}
+.tabwid thead {
+    background-color: transparent;
+}
+.tabwid tfoot {
+    background-color: transparent;
+}
+.tabwid table tr {
+background-color: transparent;
+}
+&lt;/style&gt;&lt;div class="tabwid"&gt;&lt;style&gt;.cl-0b5520d8{}.cl-0b4e848a{font-family:'Helvetica';font-size:11pt;font-weight:normal;font-style:normal;text-decoration:none;color:rgba(255, 255, 255, 1.00);background-color:transparent;}.cl-0b4e9736{margin:0;text-align:left;border-bottom: 0 solid rgba(0, 0, 0, 1.00);border-top: 0 solid rgba(0, 0, 0, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);padding-bottom:5pt;padding-top:5pt;padding-left:5pt;padding-right:5pt;line-height: 1;background-color:transparent;}.cl-0b4ec7c4{width:68.4pt;background-color:transparent;vertical-align: middle;border-bottom: 0 solid rgba(0, 0, 0, 1.00);border-top: 0 solid rgba(0, 0, 0, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}.cl-0b4ec832{width:68.4pt;background-color:transparent;vertical-align: middle;border-bottom: 2pt solid rgba(102, 102, 102, 1.00);border-top: 0 solid rgba(0, 0, 0, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}.cl-0b4ec85a{width:68.4pt;background-color:transparent;vertical-align: middle;border-bottom: 2pt solid rgba(102, 102, 102, 1.00);border-top: 2pt solid rgba(102, 102, 102, 1.00);border-left: 0 solid rgba(0, 0, 0, 1.00);border-right: 0 solid rgba(0, 0, 0, 1.00);margin-bottom:0;margin-top:0;margin-left:0;margin-right:0;}&lt;/style&gt;&lt;table class='cl-0b5520d8'&gt;&lt;thead&gt;&lt;tr style="overflow-wrap:break-word;"&gt;&lt;td class="cl-0b4ec85a"&gt;&lt;p class="cl-0b4e9736"&gt;&lt;span class="cl-0b4e848a"&gt;Gruppe&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td class="cl-0b4ec85a"&gt;&lt;p class="cl-0b4e9736"&gt;&lt;span class="cl-0b4e848a"&gt;Fakultät A&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td class="cl-0b4ec85a"&gt;&lt;p class="cl-0b4e9736"&gt;&lt;span class="cl-0b4e848a"&gt;Fakultät B&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td class="cl-0b4ec85a"&gt;&lt;p class="cl-0b4e9736"&gt;&lt;span class="cl-0b4e848a"&gt;Gesamt %&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;tbody&gt;&lt;tr style="overflow-wrap:break-word;"&gt;&lt;td class="cl-0b4ec7c4"&gt;&lt;p class="cl-0b4e9736"&gt;&lt;span class="cl-0b4e848a"&gt;Studenten&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td class="cl-0b4ec7c4"&gt;&lt;p class="cl-0b4e9736"&gt;&lt;span class="cl-0b4e848a"&gt;200/200&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td class="cl-0b4ec7c4"&gt;&lt;p class="cl-0b4e9736"&gt;&lt;span class="cl-0b4e848a"&gt;600/1000&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td class="cl-0b4ec7c4"&gt;&lt;p class="cl-0b4e9736"&gt;&lt;span class="cl-0b4e848a"&gt;~67%&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr style="overflow-wrap:break-word;"&gt;&lt;td class="cl-0b4ec832"&gt;&lt;p class="cl-0b4e9736"&gt;&lt;span class="cl-0b4e848a"&gt;Studentinnen&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td class="cl-0b4ec832"&gt;&lt;p class="cl-0b4e9736"&gt;&lt;span class="cl-0b4e848a"&gt;900/1000&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td class="cl-0b4ec832"&gt;&lt;p class="cl-0b4e9736"&gt;&lt;span class="cl-0b4e848a"&gt;100/200&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;td class="cl-0b4ec832"&gt;&lt;p class="cl-0b4e9736"&gt;&lt;span class="cl-0b4e848a"&gt;~83%&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;&lt;/template&gt;
+&lt;div class="flextable-shadow-host" id="b5c4feab-ce9d-4a74-bcca-a0616b462876"&gt;&lt;/div&gt;
+&lt;script&gt;
+var dest = document.getElementById("b5c4feab-ce9d-4a74-bcca-a0616b462876");
+var template = document.getElementById("7e6c4550-e806-4ad8-abcb-95da6128016f");
+var caption = template.content.querySelector("caption");
+if(caption) {
+  caption.style.cssText = "display:block;text-align:center;";
+  var newcapt = document.createElement("p");
+  newcapt.appendChild(caption)
+  dest.parentNode.insertBefore(newcapt, dest.previousSibling);
+}
+var fantome = dest.attachShadow({mode: 'open'});
+var templateContent = template.content;
+fantome.appendChild(templateContent);
+&lt;/script&gt;
+]
+]
+
+Tabellen stellen sog. Simpsons Paradox .cit[(Simpson, 1951)] dar.
+
+
+
+---
+## Was kommt im Quanti-Teil auf sie zu?
+&lt;iframe style="width:1000px;height:450px;border: 1px
+solid black" src="https://app.wisemapping.com/c/maps/1210585/embed?zoom=1"&gt; &lt;/iframe&gt;
+
+
+
+
+---
+class: inverse, center, middle
+# Der Evidenzbegriff
+
+---
+# Arbeitsdefinition: »Evidenz«
+&gt; .pgl[Evidenz] meint, die Vereinbarkeit einer Beobachtung mit einer Hypothese. 
+
+&gt; .pgl[Relative Evidenz] meint, die Vereinbarkeit einer Beobachtung mit einer Hypothese im Vergleich zur Vereinbarkeit mit einer anderen Hypothese. 
+
+---
+# Beispiel: Evidenz?
+&lt;center&gt;
+&lt;video width="800" height="469" controls&gt;
+  &lt;source src="https://apps.samuel-merk.de/img/Trump_Evidence.mp4" type="video/mp4"&gt;
+&lt;/video&gt;
+&lt;/center&gt;
+
+---
+class: hide_logo, center
+# Das Hempel-Oppenheim-Schema (HOS)
+&lt;div class="figure" style="text-align: center"&gt;
+&lt;img src="img/HO_Circle.png" alt="Das Hempel-Oppenheimer-Schema" width="65%" /&gt;
+&lt;p class="caption"&gt;Das Hempel-Oppenheimer-Schema&lt;/p&gt;
+&lt;/div&gt;
+
+
+---
+class: hide_logo, center, middle
+# Systematisierung (quantitativer Studien) in den Sozialwissenschaften
+
+---
+class: hide_logo
+## Empirische, theoretische &amp; methodische Studien
+
+&gt; .pgl[Empirisch] meint _auf Beobachtungen beruhend_ die zielgerichtet für die Forschungsfrage generiert wurden.
+&gt; .pgl[Theoretisch] meint _nicht direkt auf Beobachtungen/Daten_ beziehend (nicht-empirisch).  
+&gt; .pgl[Methodisch] meint _eine wissenschaftliche Methode untersuchend_.
+
+--
+
+### Beispiele (Auszüge aus Abstracts):
+.pull-left[.em09["Der Beitrag diskutiert die Bedeutung von Meta-Reflexivität für die Professionalität im Lehrerinnen- und Lehrerberuf. Meta-Reflexivität beruht erstens auf der für die Lehrerbildung konstitutiven Mehrperspektivität, die wiederum auf die vielfältigen an ihr beteiligten Disziplinen und Studienelemente zurückgeht. Zweitens greift der Ansatz Ungewissheit als konstitutives Merkmal der gängigen Professionstheorien zum Lehrerinnen- und Lehrerberuf auf. Ausgehend von einer historisch-systematischen Rekonstruktion wird Meta-Reflexivität als ein Element von Professionalität entfaltet (...)" .cit[(Cramer et al., 2019)] .]]
+.pull-right[.em09["Recent reports show that fewer adolescents believe that regular cannabis use is harmful to health. Concomitantly, adolescents are initiating cannabis use at younger ages, and more adolescents are using cannabis on a daily basis. The purpose of the present study was to test the association between persistent cannabis use and neuropsychological decline and determine whether decline is concentrated among adolescent-onset cannabis users. Participants were members of the Dunedin Study, a prospective study of a birth cohort of 1,037 individuals followed from birth (1972/1973) to age 38 y. Cannabis use was ascertained in interviews at ages 18, 21, 26, 32, and 38 y (...)" .cit[(Meier et al., 2012)].]]
+
+--
+
+.pull-left[.pgl[➡ Theoretische Studie]]
+
+--
+
+.pull-right[.pgl[➡︎ Empirische Studie]]
+
+---
+## Primär-, Sekundär-, Meta-, Metametastudien
+&gt; _Bei der .pgl[Primärstudie] ist die Datengrundlage ein selbst generierter Datensatz.  
+Bei der .pgl[Sekundärstudie] werden bereits vorhandene Datensätze erneut analysiert.  
+Bei der .pgl[Metaanalyse] greift man aus einer mehr oder minder großen Menge vergleichbarer Studien zum selben Sachverhalt die berichteten statistischen Ergebnisse heraus und rechnet mit diesen weiter._  
+.cit[(Döring &amp; Bortz, 2016)]
+
+--
+
+### Beispiele (Abstracts):
+.pull-left[.em08["Suspension of face-to-face instruction in schools during the COVID-19 pandemic has led to concerns about consequences for students’ learning. So far, data to study this question have been limited. Here we evaluate the effect of school closures on primary school performance using exceptionally rich data from The Netherlands (n ≈ 350,000). We use the fact that national examinations took place before and after lockdown and compare progress during this period to the same period in the 3 previous years. (...)" .cit[(Engzell et al., 2021)] .]]
+.pull-right[.em07["Kinder mit sprachlichem Migrationshintergrund stehen beim Erwerb sprachlicher Kompetenzen in der Schule vor besonderen Herausforderungen. Wir untersuchen Stereotypenbedrohung als mögliche Ursache für einen geringeren Wortschatzzuwachs. N = 118 Kinder mit sprachlichem Migrationshintergrund aus 18 Grundschulklassen der vierten Jahrgangsstufe wurden randomisiert einer expliziten, einer impliziten oder keiner Stereotypenbedrohung ausgesetzt und sollten im Anschluss schwierige Wörter erlernen. Erwartungsgemäß war der Wortschatzzuwachs in den beiden Bedrohungsbedingungen, insbesondere in der expliziten, geringer als in der Kontrollbedingung.  (...)" .cit[(Sander et al., 2018)].]]
+
+--
+
+.pull-left[.pgl[➡ Sekundärstudie]]
+
+--
+
+.pull-right[.pgl[➡︎ Primärstudie]]
+
+
+---
+## Deskriptive, explanative, explorative Studien
+
+&gt; Deskriptive Studien zielen auf die .pgl[Beschreibung der Verteilung von Variablen in der Population] ab.
+&gt; Explanative Studien zielen auf die .pgl[Verifikation/Falsifikation bestehender Kausalhypothesen] ab.  
+&gt; Explorative Studien zielen auf die .pgl[Genese von Hypothesen] ab.
+
+--
+
+### Beispiele (Abstracts):
+.pull-left[.em09["Suspension of face-to-face instruction in schools during the COVID-19 pandemic has led to concerns about consequences for students’ learning. So far, data to study this question have been limited. Here we evaluate the effect of school closures on primary school performance using exceptionally rich data from The Netherlands (n ≈ 350,000). We use the fact that national examinations took place before and after lockdown and compare progress during this period to the same period in the 3 previous years. (...)" .cit[(Engzell et al., 2021)] .]]
+.pull-right[.em07["Kinder mit sprachlichem Migrationshintergrund stehen beim Erwerb sprachlicher Kompetenzen in der Schule vor besonderen Herausforderungen. Wir untersuchen Stereotypenbedrohung als mögliche Ursache für einen geringeren Wortschatzzuwachs. N = 118 Kinder mit sprachlichem Migrationshintergrund aus 18 Grundschulklassen der vierten Jahrgangsstufe wurden randomisiert einer expliziten, einer impliziten oder keiner Stereotypenbedrohung ausgesetzt und sollten im Anschluss schwierige Wörter erlernen. Erwartungsgemäß war der Wortschatzzuwachs in den beiden Bedrohungsbedingungen, insbesondere in der expliziten, geringer als in der Kontrollbedingung. (...)" .cit[(Sander et al., 2018)].]]
+
+--
+
+.pull-left[.pgl[➡ Deskriptive Studie]]
+
+--
+
+.pull-right[.pgl[➡ Explanative Studie]]
+
+---
+class: hide_logo
+# Messwiederholte Studie, querschnittliche Studie
+&lt;img src="img/longi.png" width="80%" style="display: block; margin: auto;" /&gt;
+
+---
+# Loborstudie, Feldstudie
+
+---
+class: hide_logo
+# Experiment, Quasi- und Nicht-Experiment
+
+&lt;img src="img/exp_quasiexp.png" width="80%" style="display: block; margin: auto;" /&gt;
+
+---
+class: hide_logo
+# Experiment, Quasi- und Nicht-Experiment
+&amp;nbsp;  
+&amp;nbsp;
+&lt;img src="img/flowchart_exp_quasiexp.png" width="1988" /&gt;
+
+
+---
+class: hide_logo
+# Experiment, Quasi- und Nicht-Experiment
+
+### Beispiele (Abtracts):
+.pull-left[.em08["(...) Der vorliegende Beitrag untersucht die Frage, ob sich Abiturientinnen und Abiturienten aus G8- und G9-Jahrgängen in Baden-Württemberg im Hinblick auf verschiedene Kompetenzbereiche sowie in ihren Selbstberichten zu ihrer schulischen Beanspruchung, ihren gesundheitlichen Beschwerden und in ihrem Freizeitverhalten unterschieden. Die Analysen beruhen auf Daten von vier Kohorten der Zusatzstudie Baden-Württemberg des Nationalen Bildungspanels: der letzte reine G9-Jahrgang (N = 1341), der G9-Doppeljahrgang (N = 1284), der G8-Doppeljahrgang (N = 1293) und der erste reine G8-Jahrgang (N = 1292) ...."  .cit[(Hübner et al., 2017)] .]]
+.pull-right[.em08["Kinder mit sprachlichem Migrationshintergrund stehen beim Erwerb sprachlicher Kompetenzen in der Schule vor besonderen Herausforderungen. Wir untersuchen Stereotypenbedrohung als mögliche Ursache für einen geringeren Wortschatzzuwachs. N = 118 Kinder mit sprachlichem Migrationshintergrund aus 18 Grundschulklassen der vierten Jahrgangsstufe wurden randomisiert einer expliziten, einer impliziten oder keiner Stereotypenbedrohung ausgesetzt und sollten im Anschluss schwierige Wörter erlernen. Erwartungsgemäß war der Wortschatzzuwachs in den beiden Bedrohungsbedingungen, insbesondere in der expliziten, geringer als in der Kontrollbedingung.  (...)" .cit[(Sander et al., 2018)].]]
+
+--
+
+.pull-left[.pgl[➡ Quasiexperimentelle Studie]]
+
+--
+
+.pull-right[.pgl[➡ Experimentelle Studie]]
+
+
+---
+# Experimentelle  Studien
+&gt; _"Die experimentelle Studie/randomisierte kontrollierte Studie („experimental study“) bildet für die Prüfung einer Kausalhypothese zunächst künstlich nach dem Zufallsprinzip mindestens zwei Gruppen, behandelt diese systematisch unterschiedlich und misst die in den Experimental- und Kontrollgruppen resultierenden Effekte auf die abhängige/n Variable/n."_ .cit[Döring &amp; Bortz, 2016]
+
+---
+# Quasiexperimentelle Studien
+.em09[
+&gt; _"Die quasi-experimentelle Studie greift zur Prüfung einer Kausalhypothese auf Gruppen zurück, die nicht zufällig zusammengestellt, sondern oft einfach vorgefunden oder anderweitig gebildet wurden (keine Randomisierung), behandelt diese jedoch ebenso wie im echten Experiment systematisch unterschiedlich und misst die in den Experimental- und Kontrollgruppen resultierenden Effekte auf die abhängige/n Variable/n."_ .cit[Döring &amp; Bortz, 2016]
+]
+
+---
+# Nicht-experimentelle Studien
+&gt; _"Eine nicht-experimentelle Studie („non-experimental study“, „descriptive study“) greift auf vorgefundene Gruppen zurück (keine Randomisierung) und betrachtet deren vorgefundene Unterschiede"_ .cit[Döring &amp; Bortz, 2016]
+
+
+---
+class: inverse, centered, middle
+# Methodische Strenge als Qualitätmerkmal
+
+
+---
+class: hide_logo
+# Kriterien der wissenschaftlichen Qualität  
+.em15[
+* Relevanz
+* Ethische Strenge
+* Methodische Strenge
+    * Konstruktvalidität
+    * Interne Validität
+    * Externe Validität
+    * Statistische Validität
+* Präsentationsqualität  
+]
+
+
+---
+## Definition: Interne Validität
+&gt; Eine Studie - bzw. genauer - die aus ihr gewonnenen Erkenntnisse, gelten als intern valide, wenn die untersuchten Variablenzusammenhänge mit hoher Sicherheit .pgl[als kausale Ursache-Wirkungs-Relationen zu interpretieren sind]. .cit[Döring &amp; Bortz, 2016]
+
+## Steigerung der internen Validität durch
+* Größere Stichprobe
+* Experimentelle Studiendesigns
+* Längsschnittliche Studiendesigns
+* Matching Studien
+
+
+---
+.em089[
+### Definition: Externe Validität
+&gt; Eine Studie – bzw. genauer: die aus ihr gewonnenen Erkenntnisse – gelten in dem Maße als extern valide, wie sich .pgl[die Ergebnisse] auf andere Orte, Zeiten, Operationalisierungen der abhängigen und unabhängigen Variablen oder auf andere Personen als die konkret untersuchten .pgl[verallgemeinern lassen]. .cit[Döring &amp; Bortz, 2016]
+
+### Steigerung der externen Validität durch
+* Größere Stichprobe
+* Feldstudien
+* Längsschnittliche Studiendesigns
+* Repräsentative Stichproben
+* Metaanalysen
+* Multiple Operationalisierungen
+]
+ 
+
+
+
+
+---
+# Ihre Fragen &lt;i class="far fa-question-circle"&gt;&lt;/i&gt;
+    </textarea>
+<style data-target="print-only">@media screen {.remark-slide-container{display:block;}.remark-slide-scaler{box-shadow:none;}}</style>
+<script src="https://remarkjs.com/downloads/remark-latest.min.js"></script>
+<script>var slideshow = remark.create({
+"highlightStyle": "github",
+"highlightLines": true,
+"countIncrementalSlides": false,
+"ratio": "16:9",
+"navigation": {
+"scroll": false,
+"click": false,
+"touch": true
+}
+});
+if (window.HTMLWidgets) slideshow.on('afterShowSlide', function (slide) {
+  window.dispatchEvent(new Event('resize'));
+});
+(function(d) {
+  var s = d.createElement("style"), r = d.querySelector(".remark-slide-scaler");
+  if (!r) return;
+  s.type = "text/css"; s.innerHTML = "@page {size: " + r.style.width + " " + r.style.height +"; }";
+  d.head.appendChild(s);
+})(document);
+
+(function(d) {
+  var el = d.getElementsByClassName("remark-slides-area");
+  if (!el) return;
+  var slide, slides = slideshow.getSlides(), els = el[0].children;
+  for (var i = 1; i < slides.length; i++) {
+    slide = slides[i];
+    if (slide.properties.continued === "true" || slide.properties.count === "false") {
+      els[i - 1].className += ' has-continuation';
+    }
+  }
+  var s = d.createElement("style");
+  s.type = "text/css"; s.innerHTML = "@media print { .has-continuation { display: none; } }";
+  d.head.appendChild(s);
+})(document);
+// delete the temporary CSS (for displaying all slides initially) when the user
+// starts to view slides
+(function() {
+  var deleted = false;
+  slideshow.on('beforeShowSlide', function(slide) {
+    if (deleted) return;
+    var sheets = document.styleSheets, node;
+    for (var i = 0; i < sheets.length; i++) {
+      node = sheets[i].ownerNode;
+      if (node.dataset["target"] !== "print-only") continue;
+      node.parentNode.removeChild(node);
+    }
+    deleted = true;
+  });
+})();
+(function() {
+  "use strict"
+  // Replace <script> tags in slides area to make them executable
+  var scripts = document.querySelectorAll(
+    '.remark-slides-area .remark-slide-container script'
+  );
+  if (!scripts.length) return;
+  for (var i = 0; i < scripts.length; i++) {
+    var s = document.createElement('script');
+    var code = document.createTextNode(scripts[i].textContent);
+    s.appendChild(code);
+    var scriptAttrs = scripts[i].attributes;
+    for (var j = 0; j < scriptAttrs.length; j++) {
+      s.setAttribute(scriptAttrs[j].name, scriptAttrs[j].value);
+    }
+    scripts[i].parentElement.replaceChild(s, scripts[i]);
+  }
+})();
+(function() {
+  var links = document.getElementsByTagName('a');
+  for (var i = 0; i < links.length; i++) {
+    if (/^(https?:)?\/\//.test(links[i].getAttribute('href'))) {
+      links[i].target = '_blank';
+    }
+  }
+})();
+// adds .remark-code-has-line-highlighted class to <pre> parent elements
+// of code chunks containing highlighted lines with class .remark-code-line-highlighted
+(function(d) {
+  const hlines = d.querySelectorAll('.remark-code-line-highlighted');
+  const preParents = [];
+  const findPreParent = function(line, p = 0) {
+    if (p > 1) return null; // traverse up no further than grandparent
+    const el = line.parentElement;
+    return el.tagName === "PRE" ? el : findPreParent(el, ++p);
+  };
+
+  for (let line of hlines) {
+    let pre = findPreParent(line);
+    if (pre && !preParents.includes(pre)) preParents.push(pre);
+  }
+  preParents.forEach(p => p.classList.add("remark-code-has-line-highlighted"));
+})(document);</script>
+
+<script>
+slideshow._releaseMath = function(el) {
+  var i, text, code, codes = el.getElementsByTagName('code');
+  for (i = 0; i < codes.length;) {
+    code = codes[i];
+    if (code.parentNode.tagName !== 'PRE' && code.childElementCount === 0) {
+      text = code.textContent;
+      if (/^\\\((.|\s)+\\\)$/.test(text) || /^\\\[(.|\s)+\\\]$/.test(text) ||
+          /^\$\$(.|\s)+\$\$$/.test(text) ||
+          /^\\begin\{([^}]+)\}(.|\s)+\\end\{[^}]+\}$/.test(text)) {
+        code.outerHTML = code.innerHTML;  // remove <code></code>
+        continue;
+      }
+    }
+    i++;
+  }
+};
+slideshow._releaseMath(document);
+</script>
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+(function () {
+  var script = document.createElement('script');
+  script.type = 'text/javascript';
+  script.src  = 'https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML';
+  if (location.protocol !== 'file:' && /^https?:/.test(script.src))
+    script.src  = script.src.replace(/^https?:/, '');
+  document.getElementsByTagName('head')[0].appendChild(script);
+})();
+</script>
+  </body>
+</html>
