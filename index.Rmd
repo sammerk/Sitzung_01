@@ -317,6 +317,17 @@ knitr::include_graphics("img/Ebbinghaus.png")
 * in der Alltagswarnehmung
 * als auch der Wahrnung wissenschaftlicher Ergebnisse/Evidenz $\rightarrow$ siehe soeben durchgeführtes Experiment
 
+---
+## Ausprobieren am Beispiel "Prosozialität"
+<center>
+```{r echo = F, out.width="35%", fig.cap="Abbildung nach McElrath (2020)"}
+knitr::include_graphics("img/prosocial_experiment.png")
+```
+</center>
+
+--
+
+Sehr kurze Survey unter https://soscisurvey.ph-karlsruhe.de/ProsozBiU/
 
 ---
 class: middle center hide_logo
